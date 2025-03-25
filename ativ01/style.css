@@ -1,0 +1,36 @@
+*, body {
+    background-color: #f4a0c8;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.header {
+    background-color: #ef5da8;
+    padding: 20px;
+    color: white;
+}
+
+h1 {
+    margin: 0;
+}
+
+.main {
+    padding: 20px;
+}
+.guarana-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
+.footer {
+    background-color: #ef5da8;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    color: white;
+}
